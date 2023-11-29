@@ -1,0 +1,19 @@
+.mat-toolbar{
+    margin: -240px;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+mat-form-field{
+    padding:5px;
+
+}
+
+mat-hint{
+    color:red;
+    
+}
+
+.container_row{
+    display: inline-block;
+}
